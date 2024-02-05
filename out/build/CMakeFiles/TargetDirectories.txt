@@ -1,2 +1,3 @@
+/home/tea_shroom/Programming/example_project/out/build/CMakeFiles/example_project.dir
 /home/tea_shroom/Programming/example_project/out/build/CMakeFiles/edit_cache.dir
 /home/tea_shroom/Programming/example_project/out/build/CMakeFiles/rebuild_cache.dir

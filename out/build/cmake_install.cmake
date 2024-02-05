@@ -1,4 +1,4 @@
-# Install script for directory: /home/tea_shroom/Programming/example_project
+# Install script for directory: /home/tea_shroom/Programming/example_project/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -26,10 +26,13 @@
 *.a
 *.lib
 
-# Executables
+# Executables for windows, mac, etc
 *.exe
 *.out
 *.app
+
+# build directory
+build
 
 # CMake
 CMakeLists.txt.user
